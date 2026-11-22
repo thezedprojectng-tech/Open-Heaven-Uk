@@ -49,7 +49,7 @@ export function HomeHero({ settings, serviceTimes }: HomeHeroProps) {
           >
             <h1
               id="hero-title"
-              className="font-display font-bold text-ink text-[clamp(2.75rem,6.5vw,5.5rem)] leading-[1.08] tracking-tight"
+              className="font-display font-bold text-ink text-4xl lg:text-[clamp(2.75rem,6.5vw,5.5rem)] leading-[1.08] tracking-tight"
             >
               <span className="block">Find your people.</span>
               <span className="block">Grow in faith.</span>
